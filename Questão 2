@@ -1,1 +1,10 @@
-Código
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+   background-color: blue;
+}
+</style>
+</head>
+</html>
