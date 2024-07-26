@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Mudando o fundo </title>
+</head>
+<div style="background-image:url(`https://www.website.com.br/imagens/imagem_de_fundo.jpg`);">
+</body>
+</html>
